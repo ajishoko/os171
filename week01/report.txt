@@ -1,0 +1,3 @@
+Pada tugas week01 ini kita diberikan tutorial bagaimana menggunakan github secara keseluruhan.
+Seperti cara pull, push, menggunakan text editor (vi, vim, nano), pengenalan pada CLI, Scripting dan mengetahui beberapa cara mengatasi masalah lainnya.
+
