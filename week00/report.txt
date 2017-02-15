@@ -1,0 +1,2 @@
+Tugas pada week00 para mahasiswa diminta untuk mendaftarkan diri untuk membuat akun google, github, dan server badak.
+Selain itu mahasiswa juga mendapatkan tutorial untuk melakukan login kedalam server badak menggunakan PuTTY.
