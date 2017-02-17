@@ -1,7 +1,6 @@
 total 84
 drwxr-xr-x 20 yudistira.ramadhan StafCS 4096 Feb 15 15:45 .
 drwx--x--x  3 yudistira.ramadhan StafCS 4096 Feb 13 23:28 ..
-drwxr-xr-x  2 yudistira.ramadhan StafCS 4096 Feb 13 22:14 extra
 drwxr-xr-x  8 yudistira.ramadhan StafCS 4096 Feb 15 15:43 .git
 drwxr-xr-x  2 yudistira.ramadhan StafCS 4096 Feb 13 22:27 key
 -rw-r--r--  1 yudistira.ramadhan StafCS    0 Feb 15 15:46 lab01.txt
